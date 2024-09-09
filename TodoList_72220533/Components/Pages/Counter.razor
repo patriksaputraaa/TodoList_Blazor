@@ -9,6 +9,11 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+@if (currentCount > 3)
+{
+    <p>You have clicked it 3 times!</p>
+}
+
 @code {
     private int currentCount = 0;
 

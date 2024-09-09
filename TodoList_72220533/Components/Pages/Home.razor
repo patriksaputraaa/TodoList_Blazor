@@ -1,10 +1,39 @@
 ﻿@page "/"
+@rendermode InteractiveServer
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, my name is Patrik Kurniawan Saputra (72220533)</h1>
 
 This is my project for Front End Programming!
-<br />
+
+@* <br />
 Let's count up!
 <Counter IncrementAmount="10" />
+<br /> *@
+
+<br />
+I'm copying your text!
+<br />
+
+<input @oninput="InputChanged" />
+<p>@message</p>
+
+@code {
+    string message = "";
+
+    void InputChanged(ChangeEventArgs e)
+    {
+        message = (string)e.Value;
+        // StateHasChanged(); Force re-rendering of the component
+    }
+}
+
+<input @bind="text" />
+<button @onclick="() => text = string.Empty">Clear</button>
+<p>@text</p>
+
+@code {
+    string text = "";
+}
+
