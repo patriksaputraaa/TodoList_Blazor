@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\ProgFrontEnd\\TodoList_Blazor\\TodoList_72220533\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A94DAFA0-69AE-4FAA-BCC4-CA8356CF4683}|TodoList_72220533\\TodoList_72220533.csproj|d:\\github\\progfrontend\\todolist_blazor\\todolist_72220533\\todolist_72220533\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A94DAFA0-69AE-4FAA-BCC4-CA8356CF4683}|TodoList_72220533\\TodoList_72220533.csproj|solutionrelative:todolist_72220533\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94DAFA0-69AE-4FAA-BCC4-CA8356CF4683}|TodoList_72220533\\TodoList_72220533.csproj|d:\\github\\progfrontend\\todolist_blazor\\todolist_72220533\\todolist_72220533\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A94DAFA0-69AE-4FAA-BCC4-CA8356CF4683}|TodoList_72220533\\TodoList_72220533.csproj|solutionrelative:todolist_72220533\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\GitHub\\ProgFrontEnd\\TodoList_Blazor\\TodoList_72220533\\TodoList_72220533\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "TodoList_72220533\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\GitHub\\ProgFrontEnd\\TodoList_Blazor\\TodoList_72220533\\TodoList_72220533\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "TodoList_72220533\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T15:54:35.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\GitHub\\ProgFrontEnd\\TodoList_Blazor\\TodoList_72220533\\TodoList_72220533\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TodoList_72220533\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\GitHub\\ProgFrontEnd\\TodoList_Blazor\\TodoList_72220533\\TodoList_72220533\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TodoList_72220533\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T15:36:48.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
